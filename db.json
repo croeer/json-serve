@@ -1,0 +1,17 @@
+{
+  "mit-tgt": {
+    "id": "f779ba23-5428-415c-9a6a-6bbeeb7c1b32",
+    "username": "croeer@zeb.de",
+    "email": "croeer@zeb.de",
+    "tgt": "TGT-1-SERpleTN9FYdcRIXV4bDcbUJi354eaYGvw3xMghEV99fIamvApTzKchd-GxSXAs2K5o7fdbd25a61aa"
+  },
+  "ohne-tgt": {
+    "id": "f779ba23-5428-415c-9a6a-6bbeeb7c1b32",
+    "username": "croeer@zeb.de",
+    "email": "croeer@zeb.de",
+    "tgt": null
+  },
+  "error": {
+    "message": "TODO"
+  }
+}
